@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+CUando se inicializa un repositorio, se esta creando un repositorio local
+donde podre realizar el manejo de versiones de los archivos que utilice
+en este repositorio. Es importante ver que este no tendra ningun archivo
+agregado hasta que haga un commit con estos cambios.
