@@ -1,0 +1,11 @@
+Permite buscar de forma eficiente
+los errores de tipografia en las lineas
+indicadas evitando el tener que recorrer todo
+el archivo de forma exahustiva.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Me permitiria observar en que aspectos he trabajado
+especificamente del proyecto, viendo de esa forma si
+debo trabajr en otras areas del codigo. Ademas si se esta en un equipo de desarrollo
+puedo ver que han hecho mis compañeros y trabajar en concordancia con ellos.
